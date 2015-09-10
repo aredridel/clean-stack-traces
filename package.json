@@ -1,12 +1,9 @@
 {
   "name": "clean-stack-traces",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple CLI tool to strip the current directory from stack traces",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Aria Stewart <aredridel@nbtsc.org>",
   "license": "ISC",
   "dependencies": {
     "split": "^1.0.0",
